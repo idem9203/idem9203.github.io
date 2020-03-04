@@ -11,3 +11,152 @@ body {
 .titulo {
     text-align: center;
 }
+
+
+.primerafilas {
+    text-align: center;
+}
+
+.diseñoei {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo1 {
+    text-align: center;
+}
+
+.titulo2 {
+    text-align: center;
+}
+
+.titulo3 {
+    text-align: center;
+}
+
+.titulo4 {
+    text-align: center;
+}
+
+.diseñoc {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+.diseñob {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+.diseñod {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.segundafilas {
+    text-align: center;
+}
+
+.IYA {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo5 {
+    text-align: center;
+}
+
+.titulo6 {
+    text-align: center;
+}
+
+.titulo7 {
+    text-align: center;
+}
+
+.titulo8 {
+    text-align: center;
+}
+
+.construccion {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+.estudios {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+.metrologia {
+    width: 350px;
+    height: 350px;
+
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}
+
+
